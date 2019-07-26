@@ -25,8 +25,7 @@
 ***
 
 ## 五.图片
-![这是显示在图片正下方的文字](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "这是鼠标悬停图片上所显示的文字")
+![这是显示在图片正下方的文字](/images/logo.png)
 
 ## 六.超链接
 [百度](http://www.baidu.com)
