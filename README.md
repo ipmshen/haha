@@ -22,7 +22,7 @@
 ***
 
 ## 五.图片
-![这是显示在图片正下方的文字](miao.jpg "这是提示文字")
+![miao](miao.jpg "这是提示文字")
 
 ## 六.超链接
 [百度](http://www.baidu.com)
@@ -60,7 +60,7 @@ function(){
 }
 ```
 
-# 十.流程图（暂不支持）
+## 十.流程图（暂未成功）
 ```flow
 st=>start: 开始
 op=>operation: My Operation
