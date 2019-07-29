@@ -51,11 +51,6 @@
 |关羽|跳|老二|
 |张飞|rap|老三|
 
-| 姓sdjflskdjflks j名 | 技dsf sadfsdfsd能 | 排名sdfsdfsf |
-|---:|:----:|----|
-|刘备|唱|老大|
-|关羽|跳|老二|
-|张飞|rap|老三|
 
 ## 九.代码
 `function(){alert("这里是单行代码")}`
